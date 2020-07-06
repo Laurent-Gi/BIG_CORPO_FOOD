@@ -1,0 +1,5 @@
+Premier projet commun de la team Corsaire du canal 27
+! ---------------------------------------------------
+
+Chaque corsaire du canal 27 va créer son petit html pour la présentation BIG_CORPO_FOOD
+
